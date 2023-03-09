@@ -1,4 +1,4 @@
-Learn more about me [here](https://shivance.github.io)
+# Learn more about me [here](https://shivance.github.io)
 
 
 <!--   GitHub stats graph -->
@@ -7,7 +7,7 @@ Learn more about me [here](https://shivance.github.io)
 
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![Anshuman's github stats](https://github-readme-stats.vercel.app/api?username=shivance&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shivance&theme=radical&layout=compact) |
+| ![Anshuman's github stats](https://github-readme-stats.vercel.app/api?username=shivance&show_icons=true&theme=radical&include_all_commits=true) | ![Anshuman's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shivance&theme=radical&layout=compact) |
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivance"></img>
 
@@ -21,5 +21,3 @@ Learn more about me [here](https://shivance.github.io)
 <a href="https://skyline.github.com/shivance/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
 -->
 
-<!--  2d history skills -->
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=shivance&skills=JavaScript,Jupyter-Notebook,PHP,Shell,Python,C,Java,HTML" width="auto"></img>
