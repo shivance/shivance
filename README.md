@@ -1,4 +1,4 @@
-# Learn more about me [here](https://shivance.github.io)
+# Learn more about me [on my portfolio](https://shivance.github.io)
 
 
 <!--   GitHub stats graph -->
