@@ -1,4 +1,4 @@
-# Namaskaram, I'm [Anshuman Mishra](https://shivance.github.io)
+# Namaskaram🙏, I'm [Anshuman Mishra](https://shivance.github.io)
 
 * 🖥️ I am working at [FlipAI](https://flip.ai) as a Machine Learning Engineer.
 * 📣 I am a Google Developer Expert in Machine Learning (GenAI).
